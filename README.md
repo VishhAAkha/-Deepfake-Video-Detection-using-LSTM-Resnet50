@@ -1,1 +1,1 @@
-# Deepfake-video-detection-using-Resnet
+# Deepfake-Image-detection-using-CNN
